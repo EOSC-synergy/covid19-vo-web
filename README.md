@@ -4,7 +4,7 @@ The COVID-19 VO is a collaboration to support researchers with running
 computational models for modelling and anlysing the current SARS-CoV-2
 outbreak.
 
-Computation is steered via our [Galaxy Portal](https://194.210.120.181:8443/)
+Computation is steered via our [Galaxy Portal](https://covid19.eosc-synergy.eu:8443/galaxy/user/create?cntrller=user)
 
 # Infrastructure
 
